@@ -1,4 +1,4 @@
-token=NDYwODk2NTE0OTg2NzM3Njc0.DwPonw.5VtMSkHj9xTQZQ2IG5w_WzMdZ4w
+token=NTI3MTYxMzIwMTE4OTQzNzU0.DwPtLQ.iNiktupctsvQe4h1EjC4zicQoJs
 owner=368124062997938177
 prefix=$
 game=server BRG
