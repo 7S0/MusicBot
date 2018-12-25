@@ -1,6 +1,6 @@
-token=NDcyMzgyNzUwMTYzNDY4MzA4.Dnm8ew.FBUTn-6g5-jDyeP_aHs1UvMzAUM
+token=NDYwODk2NTE0OTg2NzM3Njc0.DwPonw.5VtMSkHj9xTQZQ2IG5w_WzMdZ4w
 owner=373458893051002890
-prefix=#
-game=RozXCraft | Server
+prefix=$
+game=server BRG
 stayinchannel=true
 songinstatus=true
